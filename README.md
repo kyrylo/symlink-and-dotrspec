@@ -14,3 +14,5 @@ rake
 
 The output will not be colourful (although `dotrspec` contains the `--color`
 switch). Conclusion: symlinks are not supported.
+
+The filed issue: https://github.com/rspec/rspec-core/issues/1252
